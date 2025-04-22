@@ -47,13 +47,13 @@ I built this portfolio for two core reasons:
 
 | Home                             | Projects                          | Dashboards                        |
 |----------------------------------|------------------------------------|-----------------------------------|
-| ![Home](./assets/screenshots/home.png) | ![Projects](./assets/screenshots/projects.png) | ![Dashboards](./assets/screenshots/dashboards.png) |
+| ![Home](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142331.png) | ![Projects](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142444.png) | ![Dashboards](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142539.png) |
 
 | Gallery                          | Blog                              | Contact                           |
 |----------------------------------|------------------------------------|-----------------------------------|
-| ![Gallery](./assets/screenshots/gallery.png) | ![Blog](./assets/screenshots/blog.png) | ![Contact](./assets/screenshots/contact.png) |
+| ![Gallery](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142559.png) | ![Blog](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142704.png) | ![Contact](https://github.com/Infinity0077/Anant-DS-Portfolio-Website-/blob/680b9628bcd55139476a976393e5eff65fc19d1d/Screenshot%202025-04-22%20142735.png) |
 
-> 💡 Replace these placeholders with real screenshots from your live project for the best presentation!
+
 
 ---
 
@@ -154,13 +154,13 @@ Deployed via Vercel for global scalability, automatic CI/CD and domain managemen
 **Anant Rajendra Baviskar**
 
 ## 🔗 Portfolio
-[Anant's Portfolio](https://yourportfolio.com)  <!-- Replace with your actual portfolio link -->
+[Anant's Portfolio](https://anant-portfolio-infinity.vercel.app/)<!-- Replace with your actual portfolio link -->
 
 ## 💻 GitHub
 [Anant's GitHub](https://github.com/Infinity0077)  <!-- Replace with your actual GitHub link -->
 
 ## 📧 Email
-[anant@example.com](mailto:anant@example.com)  <!-- Replace with your actual email -->
+[baviskaranant7@gmail.com.com](baviskaranant7@gmail.com)  <!-- Replace with your actual email -->
 
 ---
 
