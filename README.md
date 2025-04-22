@@ -164,10 +164,21 @@ Deployed via Vercel for global scalability, automatic CI/CD and domain managemen
 
 ---
 
+---
+
+## 📢 Important Notice
+
+This repository contains **only the production build files** of the portfolio.
+
+💡 The complete source code is kept private and is not part of this public repository.
+
+If you're interested in learning more about how it was built or collaborating on similar projects, feel free to [contact me](mailto:baviskaranant7@gmail.com)!
+
+---
+
 © 2025 Anant. All rights reserved.
 
 This project is shared for demonstration and personal showcase purposes only.  
 No part of this repository may be copied.
-
 
 
