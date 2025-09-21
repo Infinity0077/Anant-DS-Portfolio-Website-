@@ -2,7 +2,7 @@
 
 Welcome to **Anant's Personal Portfolio: Infinity Edition** — a fully responsive, multi-page website built to showcase not just projects, but your entire creative and professional journey in one place!
 
-👉 **Live Preview:** [anant-portfolio-infinity.vercel.app](https://anant-portfolio-infinity.vercel.app/)
+👉 **Live Preview:** [anant-baviskar.tech](https://anant-baviskar.tech)
 
 ---
 
