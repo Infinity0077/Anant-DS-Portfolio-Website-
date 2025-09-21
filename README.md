@@ -90,53 +90,123 @@ This project leverages a modern frontend stack and cloud services:
 ## 📂 File Structure
 
 Anant-Portfolio-Infinity/
-- public/
-  - ... (Static assets: favicons, images, etc.)
-- src/
-  - assets/
-    - Animation1.json
-    - Animation2.json
-    - Animation3.json
-    - Animation4.json
-    - react.svg
-  - components/
-    - ContentDisplay.jsx
-    - fetchBlogData.js
-    - fetchVideoData.js
-    - GalleryData.js
-    - Navbar.jsx
-    - Sidebar.jsx
-    - ThemeToggle.jsx
-  - context/
-    - ThemeContext.jsx
-  - data/
-    - constants.js
-  - pages/
-    - About.jsx
-    - Blog.jsx
-    - Contact.jsx
-    - Dashboards.jsx
-    - Gallery.jsx
-    - Home.jsx
-    - Media.jsx
-    - NotFound.jsx
-    - Projects.jsx
-    - Resume.jsx
-    - Skills.jsx
-  - App.jsx
-  - AppContent.jsx
-  - contentful.js
-  - index.css
-  - main.jsx
-- .env
-- .gitignore
-- eslint.config.js
-- index.html
-- package.json
-- package-lock.json
-- postcss.config.js
-- tailwind.config.js
-- vite.config.js
+personalweb
+├── .env
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project.zip
+├── public
+│   ├── Anant_Baviskar_Resume_2.pdf
+│   ├── Anant_Baviskar_resume_dark.pdf
+│   ├── assets
+│   │   ├── infinity-logo.png
+│   │   ├── react.svg
+│   │   ├── resume-art
+│   │   │   ├── Black-Clover-PNG-Transparent-Picture.png
+│   │   │   ├── Goku-Face-PNG-Clipart.png
+│   │   │   ├── Goku-Face-PNG-Pic.png
+│   │   │   ├── Goku-Face-PNG-Transparent.png
+│   │   │   ├── Manga-Ichigo-Kurosaki-PNG-Transparent-Image.png
+│   │   │   ├── One-Piece-Logo-PNG-Image.png
+│   │   │   ├── One-Piece-Luffy-PNG-Image.png
+│   │   │   ├── One-Piece-Luffy-PNG-Photos.png
+│   │   │   ├── One-Piece-Zoro-PNG-Transparent-Image.png
+│   │   │   ├── Zoro-PNG-Pic.png
+│   │   │   ├── Zoro-PNG-Transparent.png
+│   │   │   ├── Zoroark-Pokemon-PNG-Isolated-Pic.png
+│   │   │   ├── infinity001.png
+│   │   │   ├── infinity002.png
+│   │   │   ├── infinitybottom.png
+│   │   │   └── infinitydragon.png
+│   │   ├── signature.png
+│   │   └── sounds
+│   │       └── hover.mp3
+│   ├── vite.svg
+│   ├── vite1.svg
+│   └── vite2.png
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── AppContent.jsx
+│   ├── assets
+│   │   ├── Animation1.json
+│   │   ├── Animation2.json
+│   │   ├── Animation3.json
+│   │   ├── Animation4.json
+│   │   ├── Animationhero.json
+│   │   ├── dragon-infinity.png
+│   │   ├── infinity.json
+│   │   └── react.svg
+│   ├── components
+│   │   ├── CometsFX.jsx
+│   │   ├── ContentDisplay.jsx
+│   │   ├── DecorativeMatrixBand.jsx
+│   │   ├── DecorativeMatrixBandAurora.jsx
+│   │   ├── DecorativeMatrixBandBlueprint.jsx
+│   │   ├── DecorativeMatrixBandNeon.jsx
+│   │   ├── Footer.jsx
+│   │   ├── GalleryData.js
+│   │   ├── GlyphHaloOrbit.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── fetchBlogData.js
+│   │   └── fetchVideoData.js
+│   ├── contentful.js
+│   ├── context
+│   │   └── ThemeContext.jsx
+│   ├── data
+│   │   └── constants.js
+│   ├── hooks
+│   │   └── useViewportVersion.js
+│   ├── index.css
+│   ├── main.jsx
+│   ├── pages
+│   │   ├── About.jsx
+│   │   ├── Blog.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Dashboards.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── Home.jsx
+│   │   ├── Media.jsx
+│   │   ├── NotFound.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Resume.jsx
+│   │   └── Skills.jsx
+│   └── styles
+│       ├── Navbar.css
+│       ├── animations.css
+│       ├── base.css
+│       ├── blog-galactic.css
+│       ├── components.about.css
+│       ├── components.blog.css
+│       ├── components.contact.css
+│       ├── components.dashboard.css
+│       ├── components.footer.css
+│       ├── components.forms.css
+│       ├── components.gallery.css
+│       ├── components.glyph-orbit.css
+│       ├── components.home.css
+│       ├── components.projects.css
+│       ├── components.resume.css
+│       ├── components.skills.css
+│       ├── decorative-matrix-band-aurora.css
+│       ├── decorative-matrix-band-blueprint.css
+│       ├── decorative-matrix-band-neon.css
+│       ├── decorative-matrix-band.css
+│       ├── effects.css
+│       ├── galactic-fx.css
+│       ├── gradients.css
+│       ├── media-galactic.css
+│       ├── theme-overrides.css
+│       ├── themes.css
+│       └── utilities.css
+├── structure.md
+├── tailwind.config.js
+└── vite.config.js
 - README.md
 
 ---
