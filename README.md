@@ -88,6 +88,7 @@ This project leverages a modern frontend stack and cloud services:
 ---
 
 ## 📂 File Structure
+```text
 
 Anant-Portfolio-Infinity/
 personalweb
@@ -208,6 +209,7 @@ personalweb
 ├── tailwind.config.js
 └── vite.config.js
 - README.md
+```
 
 ---
 
